@@ -1,2 +1,3 @@
-# PracticeRepo
-This is for practice
+# Task Manager
+
+Simple task management application.
